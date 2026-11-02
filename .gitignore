@@ -1,3 +1,11 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Production Build Artifacts
+dist/
+*/dist/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -11,6 +19,8 @@ build/*.bin
 # Logs and databases
 *.log
 *.sqlite3
+*.db
+*.db-journal
 
 # OS / Editor files
 .vscode/
@@ -18,3 +28,4 @@ build/*.bin
 *.swp
 *~
 Thumbs.db
+.DS_Store

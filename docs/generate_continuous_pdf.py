@@ -796,6 +796,14 @@ html_content = """<!DOCTYPE html>
     </tbody>
   </table>
 
+  <h2>3.6 Source Code &amp; Project Repository</h2>
+  <p>
+    The complete open-source codebase, automated testing suite, interactive 3D simulation environment, and technical documentation for SMARTDRIVE 3D are available on GitHub:
+  </p>
+  <p style="margin-top: 6px;">
+    <strong>GitHub Repository</strong>: <a href="https://github.com/HarshaBoreddy31/driver-monitoring-adas" style="color: #004494; font-weight: bold; text-decoration: underline;">https://github.com/HarshaBoreddy31/driver-monitoring-adas</a>
+  </p>
+
 </body>
 </html>
 """
